@@ -7,7 +7,7 @@ A PHP library for the Bitrix24 REST API
 Run from the command line:
 
 ```bash
-composer require fomvasss/bitrix24-api-hook
+composer require egeneralov/bitrix24-api-hook
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ In this class you need use next params: base URL, user ID, secret password (toke
 ### Use PHP class
 ```php
 <?php
-$b24 = new \Fomvasss\Bitrix24ApiHook\Bitrix24('https://testhipertin.bitrix24.ru', 13, '9cybrkhzxxf28zl4');
+$b24 = new \Generalov\Bitrix24ApiHook\Bitrix24('https://testhipertin.bitrix24.ru', 13, '9cybrkhzxxf28zl4');
 
 // see "crm.lead.add"
 $b24->crmLeadAdd([
