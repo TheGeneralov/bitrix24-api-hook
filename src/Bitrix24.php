@@ -1,12 +1,12 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: fomvasss
- * Date: 08.04.19
- * Time: 17:28
+ * Created by Visual Studio Code.
+ * User: Eugene Generalov
+ * Date: 01.12.2023
+ * Time: 00:00
  */
 
-namespace Fomvasss\Bitrix24ApiHook;
+namespace Generalov\Bitrix24ApiHook;
 
 class Bitrix24
 {

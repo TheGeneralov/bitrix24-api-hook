@@ -1,13 +1,13 @@
 {
-    "name": "geolance-com/bitrix24-api-hook",
-    "description": "A PHP library for the Bitrix24 REST API",
+    "name": "egeneralov/bitrix24-api-hook",
+    "description": "Библиотека PHP для REST API Bitrix24",
     "type": "composer-package",
     "keywords": ["bitrix", "bitrix24", "hook", "webhook"],
     "authors": [
         {
-            "name": "Vasyl Fomin",
-            "email": "fomvasss@gmail.com",
-            "role": "Developer"
+            "name": "Евгений Генералов",
+            "email": "general.mgn@gmail.com",
+            "role": "Разработчик"
         }
     ],
     "license": "MIT",
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fomvasss\\Bitrix24ApiHook\\": "src/"
+            "Generalov\\Bitrix24ApiHook\\": "src/"
         }
     }
 }
