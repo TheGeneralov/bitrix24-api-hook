@@ -37,10 +37,10 @@ $b24->crmLeadAdd([
 			['VALUE' => 'bob@app.com',],
 		],
 		'PHONE' => [
-			['VALUE' => '+74563214561']
+			['VALUE' => '+73519280550']
 		],
 		'COMMENTS' => 'Hello World',
-		'UF_CRM_1554454898781' => 'Kiev',
+		'UF_CRM_1554454898781' => 'Magnitogorsk',
 	],
 	'params' => ["REGISTER_SONET_EVENT" => "Y"],
 ]);
